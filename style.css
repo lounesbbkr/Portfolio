@@ -130,6 +130,24 @@ a.nav-link{
 }
 
 
+.cv-button {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #00a9e2; /* Blue color */
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	font-weight: bold;
+	transition: background-color 0.3s ease;
+  }
+  
+.cv-button:hover {
+	background-color: #00a9e2; /* Darker blue on hover */
+}
+  
+ 
+
+
 /*──────────────────
     social media
 ──────────────────*/
